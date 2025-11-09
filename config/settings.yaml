@@ -1,0 +1,16 @@
+keys:
+  attack: ["1", "2", "3", "4", "5", "6"]
+  direction: ["up", "down", "left", "right"]
+
+LEARNING_RATE: 0.25
+TARGET_WINRATE: 0.5
+MIN_REACTION: 0.1
+MAX_REACTION: 2.5
+MIN_AGGR: 0.0
+MAX_AGGR: 1.0
+WINDOW: 100
+
+ADAPTATION_MODE: "PID"
+PID_KP: 0.4
+PID_KI: 0.05
+PID_KD: 0.02

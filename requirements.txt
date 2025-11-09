@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy==1.26.0
+pandas==2.1.0
+
+# Logging, configuration, and data parsing
+pyyaml==6.0.2
+
+# Keyboard input (if you still plan to monitor user input later)
+pynput==1.7.6
+
+# For API and web service layer
+fastapi==0.115.2
+uvicorn==0.30.1
+
+# Optional ML support (only if you extend AdaptiveBoss to use learning models)
+scikit-learn==1.3.2
+tensorflow==2.15.0
+
+# Development utilities
+matplotlib==3.8.0
