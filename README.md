@@ -115,11 +115,11 @@ Adam Optimizer achieved the most balanced and smooth gameplay experience with mi
 
 ## 👩‍💻 Team
 
-| Name            | Reg. No.        | Email                |
-| :-------------- | :-------------- | :------------------- |
-| Disha BR        | A2212701010006  | db6793@srmist.edu.in |
-| Jerin Klaudia A | RA2212701010026 | ja9103@srmist.edu.in |
-| Aaditva Chauhan | RA2211047010141 | ac5462@srmist.edu.in |
+| Name            | Reg. No.        | 
+| :-------------- | :-------------- | 
+| Disha B         | RA2212701010006 | 
+| Jerin Klaudia A | RA2212701010026 |
+| Aaditva Chauhan | RA2211047010141 |
 
 ---
 
